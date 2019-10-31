@@ -1,4 +1,4 @@
-# Stock-prices-prediction
+# Predict the Stock Close Price
 
 **About Problem Statement**:
  - Genre: Time Series Regression
