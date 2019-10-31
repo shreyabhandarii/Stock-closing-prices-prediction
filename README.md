@@ -4,10 +4,8 @@
  - Genre: Time Series Regression
  - Problem Type: Predict stock price based on historical data
 
-**Submission Format**:
-	- Results.csv or Predictions.csv : contains 'Close' price forecast for dates given in Test.csv
-	
-	 - Please explain your analysis of the training data; your approach, logic & understanding of the problem statement
+
+	- Please explain your analysis of the training data; your approach, logic & understanding of the problem statement
 	    and upload your source code notebook
 
 **About the Evaluation Parameter**:
