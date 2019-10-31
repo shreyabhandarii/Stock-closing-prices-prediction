@@ -5,11 +5,10 @@
  - Problem Type: Predict stock price based on historical data
 
 **Submission Format**:
- - There are 2 submission inputs required:
 	- Results.csv or Predictions.csv : contains 'Close' price forecast for dates given in Test.csv
-	- .zip file: Contains the following files
-	    - .pptx : explaining your analysis of the training data; your approach, logic & understanding of the problem statement
-	    - .ipynb : source code notebook
+	
+	 - Please explain your analysis of the training data; your approach, logic & understanding of the problem statement
+	    and upload your source code notebook
 
 **About the Evaluation Parameter**:
  - Mean Absolute Error between Predicted & Actual values
