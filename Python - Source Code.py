@@ -1,14 +1,3 @@
-"""Type "help", "copyright", "credits" or "license()" for more information.
->>> # -*- coding: utf-8 -*-
-"""
-"""
-Created on Sun Oct 13 04:01:43 2019
-
-@author: admin
-"""
-"""
-"""
-
 import pandas as pd
 import numpy as np
 
@@ -22,7 +11,7 @@ rcParams['figure.figsize'] = 20,10
 
 
 #read the file
-df = pd.read_csv(r'D:\OneDrive - Madras School of Economics\MSE - Others\Citi Analytics Challenge\Python - NN\Train Data.csv')
+df = pd.read_csv(r'D:\Python - NN\Train Data.csv')
 
 #print the head
 df.head()
